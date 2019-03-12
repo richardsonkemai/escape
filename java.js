@@ -48,11 +48,11 @@ function changeImage(el) {
 }
 }
 
-function checkCode(el){
+/*function checkCode(el){
 	if (document.getElementById("box1").src.match("images/chinese_e.PNG") && document.getElementById("box2").src.match("images/chinese_s.PNG") && document.getElementById("box3").src.match("images/chinese_c.PNG"))(document.getElementById("box4").src.match("images/chinese_a.PNG") && document.getElementById("box5").src.match("images/chinese_p.PNG") && document.getElementById("box6").src.match("images/chinese_e.PNG")){
 		document.getElementById("open").classList.add("invisible");
 		console.log("all images match");
 	} else{
 	
-	}
+	}*/
 }
